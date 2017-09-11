@@ -18,6 +18,9 @@ a {
   color: #333;
   text-decoration: none; }
 
+.hidden {
+  display: none; }
+
 .text-left {
   text-align: left; }
 
