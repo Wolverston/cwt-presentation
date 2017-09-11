@@ -48,7 +48,8 @@ a {
     min-height: 400px;
     background-color: #FFF;
     padding: 50px 100px;
-    border-radius: 20px; }
+    border-radius: 20px;
+    box-shadow: 2px 3px 8px 0px #C4EAFA; }
     .td .form-wrap form {
       text-align: left; }
 
@@ -70,18 +71,18 @@ a {
     height: 28px;
     font-size: 16px; }
   .form-control .btn {
-    color: #333;
+    color: #fff;
     height: auto;
     border: 3px solid rgba(33, 111, 142, 0.3);
     border-radius: 20px;
     font-size: 20px;
-    width: 200px;
-    margin-top: 10px;
-    background-color: rgba(126, 173, 191, 0.3);
+    width: 280px;
+    margin: 10px auto;
+    background-color: #1160A0;
     padding: 10px 30px;
     cursor: pointer; }
     .form-control .btn:hover {
-      background-color: rgba(109, 162, 183, 0.3); }
+      background-color: #0f5289; }
     .form-control .btn:focus, .form-control .btn:active:focus {
       outline: none; }
 
@@ -92,9 +93,9 @@ a {
   font-size: 26px;
   padding: 0;
   width: auto;
-  background-color: rgba(126, 173, 191, 0.3); }
+  background-color: #1160A0; }
   .btn:hover {
-    background-color: rgba(109, 162, 183, 0.3); }
+    background-color: #0f5289; }
   .btn:focus, .btn:active:focus {
     outline: none; }
   .btn a {
